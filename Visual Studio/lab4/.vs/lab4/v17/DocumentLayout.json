@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6716AB7-2407-4304-B5DF-F71E7E19E3AD}|lab4\\lab4.csproj|c:\\visual studio\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6716AB7-2407-4304-B5DF-F71E7E19E3AD}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Visual Studio\\lab4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "C:\\Visual Studio\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAywDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:36:33.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
